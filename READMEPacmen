@@ -1,0 +1,6 @@
+Pacmen Factory
+
+This project is a website with two buttons, "Add Pacman", and "Start Game". When Add Pacman is pressed, a "Pacman" with a random position, velocity, and direction will spawn 
+somewhere in the top right corner. When start game is pressed, all the Pacmen will begin to move, bouncing when they come into contact with the borders of the screen.
+
+Click on the corresponding index to pull up the website.
