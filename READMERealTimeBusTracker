@@ -1,0 +1,4 @@
+Real Time Bus Tracker
+
+The website consists of a map focused on the MIT campus, with a marker on said campus. On pressing of the website's sole button, the marker will move to every bus stop between MIT
+and Havard, one by one.
